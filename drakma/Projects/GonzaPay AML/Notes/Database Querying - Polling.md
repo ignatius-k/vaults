@@ -1,3 +1,8 @@
+---
+mode: think
+review: ok
+review_note: "Decision recorded: polling for v1."
+---
 - [[#What other mechanisms exist?]]
 - [[#What concerns exist and how to handle them?]]
 - [[#Things to note]]

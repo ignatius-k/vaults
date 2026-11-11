@@ -2,6 +2,9 @@
 date: 2026-08-18
 project: Digital Lending
 type: meeting
+mode: do
+review: ok
+review_note: "History – kept as written."
 ---
 # Drakma team – 2026-08-18
 

@@ -2,6 +2,9 @@
 date: 2026-09-04
 project: QRPe
 type: meeting
+mode: do
+review: ok
+review_note: "History – kept as written."
 ---
 # Stanbic questions – 2026-09-04
 

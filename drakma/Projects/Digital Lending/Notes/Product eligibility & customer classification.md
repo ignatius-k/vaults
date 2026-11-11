@@ -1,3 +1,8 @@
+---
+mode: think
+review: ok
+review_note: "Keep as the eligibility design note."
+---
 Product Variant Eligibility Workflow
 - Clarification of product variant scoring responsibilities.
 - Delegation of customer and product filtering to loan processors.

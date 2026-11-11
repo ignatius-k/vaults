@@ -2,6 +2,9 @@
 project: GonzaPay
 cr: CR-004 Biller-Motor Third Party
 status: in progress
+mode: do
+review: review
+review_note: "Confirm the 3 ❓ items: 400-response fields, IDD review, solution document review."
 ---
 # Motor Third Party – MTP (CR-004)
 

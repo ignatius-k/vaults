@@ -1,3 +1,8 @@
+---
+mode: do
+review: update
+review_note: "From August; replaced by the DCP CRs and the LMS v2.0 timelines (9 Nov). Update or move to Archive."
+---
 Items scoped per work phase
 
 ## system design

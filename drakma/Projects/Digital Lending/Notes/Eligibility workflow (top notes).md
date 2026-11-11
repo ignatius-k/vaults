@@ -1,3 +1,8 @@
+---
+mode: think
+review: delete
+review_note: "Near-duplicate of [[Product eligibility & customer classification]]; its one extra point (CSE shares only eligibility) is already in the hub."
+---
 
 **TOP**
 ****

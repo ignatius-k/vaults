@@ -1,3 +1,8 @@
+---
+mode: learn
+review: ok
+review_note: "Reference: how each bank signs requests."
+---
 
 1) QR Service - **AS SERVER** - Member banks(Clients) requesting QRPe(Server)
 		Just forward the request as-is from the client

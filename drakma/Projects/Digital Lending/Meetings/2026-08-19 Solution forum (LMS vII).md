@@ -2,6 +2,9 @@
 date: 2026-08-19
 project: Digital Lending
 type: meeting
+mode: do
+review: ok
+review_note: "History – kept as written."
 ---
 # Solution forum (LMS vII) – 2026-08-19
 

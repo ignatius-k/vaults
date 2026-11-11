@@ -1,3 +1,8 @@
+---
+mode: do
+review: update
+review_note: "Bottom half is loan-processor eligibility design, not hiring – move it to Digital Lending. Candidate notes are private: keep them out of anything shared."
+---
 - musiimenta joachim
 	- demonstrated attitude to learn, listening, collaborative
 	- enough experience in both frontend and backend,  to support on projects

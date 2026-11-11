@@ -1,3 +1,8 @@
+---
+mode: think
+review: review
+review_note: "Early plan (July). Check against what was built; update or move to Archive."
+---
 Which data is required for this project, maybe we can divide it depending on the users or expected functionalities
 - Risk officer
 - AML Analyst

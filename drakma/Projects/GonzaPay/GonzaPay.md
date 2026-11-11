@@ -2,6 +2,9 @@
 status: active
 client: Centenary Bank (CRDB)
 dcp: PRJ-0006 GonzaPay (CRDB, CTS & Drakma)
+mode: do
+review: review
+review_note: "Confirm the ❓ tasks (customer info app, UEDCL messages)."
 ---
 # GonzaPay
 

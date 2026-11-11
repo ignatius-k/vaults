@@ -1,6 +1,9 @@
 ---
 project: GonzaPay AML
 type: feedback
+mode: do
+review: update
+review_note: "Check the open UI items against the live app; tick what's already fixed."
 ---
 # Key notes – data and UI feedback
 

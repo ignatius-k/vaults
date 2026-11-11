@@ -2,6 +2,9 @@
 date: 2026-08-06
 project: API7 Gateway
 type: meeting
+mode: do
+review: delete
+review_note: "Two lines; the fact (SaaS, usage billing) is in the hub."
 ---
 # API7 onboarding – 2026-08-06
 

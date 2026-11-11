@@ -1,3 +1,8 @@
+---
+mode: learn
+review: ok
+review_note: "Requirements reference."
+---
 1. The master accounts are to be created per product variant, not per product
 2. Every posting in the loan accounting is a transaction, and every transaction has a reference to handle double postings, or for idempotency - hence in transactions, a reference has to be stored
 3. The transactions include disbursement; which covers the loan disbursement, and top up since it is the same, charge which covers the charges posted on loan account, accrual which covers the interest & penalty accruals

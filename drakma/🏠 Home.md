@@ -1,3 +1,8 @@
+---
+mode: do
+review: ok
+review_note: "Dashboard, kept up to date by Claude."
+---
 # 🏠 Home
 
 > Claude keeps this note up to date (every morning, at the midday check and at the end of the day). You only read it.
@@ -37,4 +42,4 @@
 | [[Ops & Admin]] | 🟡 waiting on Sherry | CloudFront certificates |
 
 ## 🔗 Quick links
-[[📥 Inbox]] · [[People]] · [[How tasks work]] · Archive: `Archive/Old weekly notes`
+[[📥 Inbox]] · [[People]] · [[How tasks work]] · [[🧹 Vault review]] · Archive: `Archive/Old weekly notes`

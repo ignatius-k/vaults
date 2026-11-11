@@ -1,6 +1,9 @@
 ---
 status: active
 app: https://aml.drakma.com
+mode: do
+review: ok
+review_note: "Current."
 ---
 # GonzaPay AML
 

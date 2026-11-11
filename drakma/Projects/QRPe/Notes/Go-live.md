@@ -1,3 +1,8 @@
+---
+mode: do
+review: update
+review_note: "Overlaps the Stanbic go-live tasks in [[QRPe]]. Keep as the go-live checklist, but sync it with the hub."
+---
 1. Partner portal
 
 2. UAT Tests for ONUS transactions

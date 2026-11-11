@@ -1,3 +1,8 @@
+---
+mode: think
+review: review
+review_note: "Check it matches the answers Drakma sent to Centenary's risk team on 22 Oct."
+---
 - Why is it needed
 	- to illustrate the process/interactions, that occur between the Bank's systems, the Data Process Unit
 	- also to illustrate how the data being requested is stored and when its used, and where it is sent specifically the PII

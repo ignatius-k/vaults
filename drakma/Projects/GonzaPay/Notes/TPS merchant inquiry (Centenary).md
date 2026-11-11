@@ -1,6 +1,9 @@
 ---
 project: GonzaPay
 type: reference
+mode: learn
+review: ok
+review_note: "Reference example of the TPS API (key removed)."
 ---
 # TPS merchant inquiry (Centenary) – sample request
 

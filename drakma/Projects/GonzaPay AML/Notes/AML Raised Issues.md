@@ -1,6 +1,9 @@
 ---
 project: GonzaPay AML
 type: issues
+mode: do
+review: update
+review_note: "Check which issues are fixed in the live app; AML-007 still to fix."
 ---
 # AML raised issues
 

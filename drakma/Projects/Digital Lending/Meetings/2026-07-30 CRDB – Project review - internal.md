@@ -2,6 +2,9 @@
 date: 2026-07-30
 project: Digital Lending
 type: meeting
+mode: do
+review: ok
+review_note: "History – kept as written."
 ---
 # CRDB – Project review - internal – 2026-07-30
 

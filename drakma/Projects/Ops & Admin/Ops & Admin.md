@@ -1,5 +1,8 @@
 ---
 status: active
+mode: do
+review: review
+review_note: "Confirm whether projects.drakma.com certificate was renewed on 3 Nov."
 ---
 # Ops & Admin
 

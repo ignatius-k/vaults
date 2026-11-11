@@ -2,6 +2,9 @@
 date: unknown
 project: Digital Lending
 type: meeting
+mode: do
+review: update
+review_note: "Add the meeting date to the file name."
 ---
 # CRDB – Pre-scoring data sharing (undated)
 

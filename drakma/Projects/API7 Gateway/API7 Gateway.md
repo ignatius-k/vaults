@@ -1,6 +1,9 @@
 ---
 status: active
 vendor: API7 (API7 Cloud control plane, 3.10.1)
+mode: do
+review: review
+review_note: "Confirm the 'from older notes' tasks (MTP docs, Airtel, routing research)."
 ---
 # API7 Gateway
 

@@ -1,3 +1,8 @@
+---
+mode: do
+review: delete
+review_note: "Every item is crossed out (done). Delete, or move to Archive."
+---
 QRpe - API Gateway
 - sms gateway
 

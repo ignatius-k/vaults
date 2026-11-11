@@ -2,6 +2,9 @@
 date: 2026-08-24
 project: Digital Lending
 type: meeting
+mode: do
+review: ok
+review_note: "History – kept as written."
 ---
 # Customer service follow-up – 2026-08-24
 

@@ -2,6 +2,9 @@
 project: GonzaPay
 cr: CR-003 Biller-URA Tax Payments
 status: in progress
+mode: do
+review: review
+review_note: "Confirm which branch code is right (CNB1 vs the code used on 29 Oct)."
 ---
 # URA Tax Payments (CR-003)
 

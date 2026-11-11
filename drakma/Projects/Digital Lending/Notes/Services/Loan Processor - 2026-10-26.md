@@ -1,3 +1,8 @@
+---
+mode: think
+review: ok
+review_note: "Current review of the loan processor spec."
+---
 2.2 Issues
 
 Request is answered with the request and RequestID to be used to poll, not a poll URL

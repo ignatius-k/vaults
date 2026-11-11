@@ -1,3 +1,8 @@
+---
+mode: learn
+review: review
+review_note: "A list of open questions (Eureka, registry, load balancing). Answer them, or delete if Docker Swarm/Eureka is no longer the plan."
+---
 use- how does facilitate load balancing, is this by client or service registry
 - for server-side, the router - is this level-4
 - is the querying of the registry done on every request, which I believe is not optimal, if not on every request, is the client constantly querying the registry

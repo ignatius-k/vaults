@@ -2,6 +2,9 @@
 date: 2026-09-08
 project: Digital Lending
 type: meeting
+mode: do
+review: ok
+review_note: "History – kept as written."
 ---
 # CRDB – Credibility (data access) – 2026-09-08
 

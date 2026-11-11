@@ -1,6 +1,9 @@
 ---
 project: API7 Gateway
 type: reference
+mode: learn
+review: review
+review_note: "The last bullets (access reviews, incident response, DR, recovery tests) look like unanswered partner questions – answer or remove."
 ---
 # API7 Gateway: security overview for partners
 

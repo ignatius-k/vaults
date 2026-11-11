@@ -2,6 +2,9 @@
 project: GonzaPay AML
 type: design
 status: draft
+mode: think
+review: review
+review_note: "Design is open: decide Option A (fixed attributes) or B (user-built conditions)."
 ---
 # Rule configuration – design
 

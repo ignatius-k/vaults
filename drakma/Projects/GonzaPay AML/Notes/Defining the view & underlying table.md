@@ -1,3 +1,8 @@
+---
+mode: learn
+review: update
+review_note: "Says 'only successful transactions' – the system now includes failed ones. Update that line."
+---
 The required output format of transaction should include
 - transaction date - **REQUIRED**
 - transaction reference - **REQUIRED, UNIQUE**

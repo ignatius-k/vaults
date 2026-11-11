@@ -2,6 +2,9 @@
 date: 2026-09-04
 project: Digital Lending
 type: meeting
+mode: do
+review: review
+review_note: "Contains a phone number and an ID – remove them if they belong to a real customer."
 ---
 # Customer service review – 2026-09-04
 

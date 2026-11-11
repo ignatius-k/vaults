@@ -1,3 +1,8 @@
+---
+mode: learn
+review: update
+review_note: "Learning stopped at 'key concepts'. Finish the API7 concepts and add what you learned."
+---
 Gateway Group -> Gateway Instance
 
 **Gateway instances** in the same **Gateway Group** get the same changes/configurations

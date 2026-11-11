@@ -2,6 +2,9 @@
 project: GonzaPay
 cr: CR-013 Biller-Sure Pay
 status: development starting
+mode: do
+review: ok
+review_note: "Current – development starts 12 Nov."
 ---
 # Sure Pay (CR-013)
 

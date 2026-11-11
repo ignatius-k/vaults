@@ -1,6 +1,9 @@
 ---
 status: active
 partners: Stanbic, Pearl Bank (PBUG), Centenary, Hitachi (HDPS)
+mode: do
+review: review
+review_note: "Confirm the 'from older notes' tasks (DB clean-up, mutual TLS, BigQuery)."
 ---
 # QRPe
 

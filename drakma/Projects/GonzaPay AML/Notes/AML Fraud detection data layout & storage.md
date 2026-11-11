@@ -1,3 +1,8 @@
+---
+mode: think
+review: review
+review_note: "Early research (July) with no final decision. Record what was chosen, or move to Archive."
+---
 Getting the right data layout for the system
 - [[#How is data usually stored (industry-recommended)?]]
 - [[#What data storage/ layout is to be used?]]

@@ -1,3 +1,8 @@
+---
+mode: think
+review: ok
+review_note: "Current review of the payments processor spec."
+---
 - no need to talk about routes,
 - hence, no need of talking about steps
 - the channel implmenetation or integration will be done in the code, aybe the credz, url to be managed as config in config file

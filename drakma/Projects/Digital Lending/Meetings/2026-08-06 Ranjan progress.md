@@ -2,6 +2,9 @@
 date: 2026-08-06
 project: Digital Lending
 type: meeting
+mode: do
+review: ok
+review_note: "History – kept as written."
 ---
 # Ranjan progress – 2026-08-06
 

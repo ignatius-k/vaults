@@ -1,3 +1,8 @@
+---
+mode: learn
+review: ok
+review_note: "Task format guide."
+---
 # How tasks work
 
 One format everywhere, so Claude can read and update them:

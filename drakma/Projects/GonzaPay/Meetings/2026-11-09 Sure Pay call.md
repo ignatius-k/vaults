@@ -3,6 +3,9 @@ date: 2026-11-09
 project: GonzaPay
 biller: Sure Pay (CR-013)
 type: meeting
+mode: do
+review: ok
+review_note: "Current."
 ---
 # Sure Pay call – 9 Nov 2026
 

@@ -1,3 +1,8 @@
+---
+mode: learn
+review: update
+review_note: "Short and unstructured; merge the facts into [[Motor Third Party]] and delete, or expand into a proper API reference."
+---
 validate-vrn
 	- assessment type; what does it mean? and what do  M, MTP the types represent?
 	- validate a vehicle with active policy,, - NON-ZERO

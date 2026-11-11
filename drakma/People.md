@@ -1,3 +1,8 @@
+---
+mode: do
+review: ok
+review_note: "Who's who; Claude adds people as they appear."
+---
 # 👥 People
 
 Who's who, so messages can be matched to projects. Add people as you meet them.

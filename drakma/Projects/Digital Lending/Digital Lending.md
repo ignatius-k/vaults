@@ -2,6 +2,9 @@
 status: active
 dcp: PRJ-0001 Digital Lending Solution
 clients: Centenary Bank (CRDB), Pearl Bank
+mode: do
+review: review
+review_note: "Confirm the 'from older notes' tasks and the ❓ architecture review."
 ---
 # Digital Lending (LMS v2)
 

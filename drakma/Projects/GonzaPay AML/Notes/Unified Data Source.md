@@ -1,3 +1,8 @@
+---
+mode: think
+review: ok
+review_note: "Decision recorded: materialized view."
+---
 Currently, there are multiple transaction tables from which we are to listen to
 My idea is, a view is created to join all this data
 
