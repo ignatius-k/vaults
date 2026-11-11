@@ -17,19 +17,18 @@ review_note: "Dashboard, kept up to date by Claude."
 - **30 Nov** – UAT: URA, GonzaPay onboarding/USSD/app CRs ([[GonzaPay]])
 - **8 Dec** – URA go-live · **10 Dec** – MTP UAT · **20 Dec** – MTP go-live
 
-## 🔥 Open tasks by project
-- **[[GonzaPay]]**: Sure Pay testing & onboarding, MTP open questions, read Sai's handover
-- **[[QRPe]]**: share routing doc with Hitachi, reply to Stanbic on partner portal testing, Stanbic go-live
-- **[[API7 Gateway]]**: answer API7's 4 upgrade checks, get approval, schedule 2FA upgrade
-- **[[Digital Lending]]**: review notification service doc, loan processor & accounting
-- **[[GonzaPay AML]]**: fix AML-007, phone standardisation, new wallet-opening rule
-- **[[Ops & Admin]]**: CloudFront certificates (aml, uedclsupport)
-
-## ⏳ Waiting on others
-- Hitachi: review of QRPe documentation
-- Stanbic: production API access + credentials; new SIT date
-- Centenary: MTP UI/UX approval; confirmation the micro-lending risk items are closed
-- Sherry: CloudFront certificates
+## ⚙️ Tasks to do
+*Most urgent first. Full lists live in each project note.*
+- [ ] Test Sure Pay core APIs: validate reference, make payment → [[Sure Pay]] · dev starts 12 Nov
+- [ ] Answer API7's 4 upgrade checks (headers, Stanbic staging test, scripts, memory) → [[API7 Gateway]]
+- [ ] Share the routing document with Hitachi → [[QRPe]] · asked 9 Nov
+- [ ] Reply to Stanbic on partner portal testing → [[QRPe]] · asked 11 Nov
+- [ ] Review the notification service document → [[Digital Lending]] · asked 9 Nov
+- [ ] Read Sai's handover document → [[GonzaPay]]
+- [ ] Onboard Sure Pay API on the gateway → [[Sure Pay]]
+- [ ] Be ready for URA UAT → [[URA Tax Payments]] · 30 Nov
+- [ ] Fix AML-007 dormant account rule → [[GonzaPay AML]]
+- [ ] CloudFront certificates (aml, uedclsupport) – with Sherry → [[Ops & Admin]]
 
 ## 🧠 Decisions waiting
 - **AML rule conditions:** Option A (fixed attributes) or B (user-built)? → [[Rule Configuration]]
@@ -42,6 +41,12 @@ review_note: "Dashboard, kept up to date by Claude."
 - **API7 3.10.9 upgrade:** forwarded headers, rolling data-plane upgrade, custom-plugin API changes → needed for API7's 4 checks ([[API7 Gateway]])
 - **API7 key concepts:** gateway groups, services, routes, upstreams, consumers → finish [[Architecture]]
 - **Service discovery:** answer the open questions (registry, client vs server-side load balancing) → [[service discovery]]
+
+## ⏳ Waiting on others
+- Hitachi: review of QRPe documentation
+- Stanbic: production API access + credentials; new SIT date
+- Centenary: MTP UI/UX approval; confirmation the micro-lending risk items are closed
+- Sherry: CloudFront certificates
 
 ## 📊 Projects
 | Project | Status | Next step |
