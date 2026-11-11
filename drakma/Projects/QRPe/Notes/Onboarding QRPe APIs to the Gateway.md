@@ -1,1 +1,0 @@
-1. **API Gateway Configuration:** Configure the Gateway to route inbound requests from the Load Balancer to the proxy server, and to proxy outbound requests from the EKS pods to the external bank.
