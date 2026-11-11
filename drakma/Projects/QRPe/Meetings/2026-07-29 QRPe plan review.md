@@ -1,0 +1,2 @@
+- QRpe data tables, in the GonzaPay database, to be cleaned
+- ==TODO== Check with Sherry, in migrating the gateway service instance to the new environment

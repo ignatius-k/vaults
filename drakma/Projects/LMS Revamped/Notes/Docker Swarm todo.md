@@ -1,0 +1,3 @@
+- set up docker swarm for;
+	- service discovery
+	- 

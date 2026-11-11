@@ -1,0 +1,3 @@
+- Just like a SaaS
+- usage; every end of month, daily usage
+- 

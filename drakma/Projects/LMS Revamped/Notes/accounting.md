@@ -1,0 +1,5 @@
+- loan account setup
+	- create required ledger accounts
+- product accounting configuration ie is it master accounts or product accounts ie for master accounts
+- default per product account configuration
+- 
