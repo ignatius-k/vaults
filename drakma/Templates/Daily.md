@@ -1,14 +1,22 @@
 # {{date:dddd, D MMM YYYY}}
 
-## 🎯 Top 3 today
+## ⚙️ Do today
 - [ ]
 - [ ]
 - [ ]
+
+## 🧠 Think today
+- **Question** – why now
+  Options: … · Suggestion: …
+  ➜ Decision:
+
+## 📚 Learn today
+- **Topic** – why now
 
 ## 📅 Calendar
 -
 
-## 📨 Needs a reply (Zoho Mail / Cliq)
+## 📨 Needs a reply (Zoho Mail / Cliq / DCP)
 -
 
 ## ⏳ Waiting on others
@@ -22,5 +30,7 @@
 
 ## 🌙 End of day
 **Done:**
+**Decided:**
+**Learned:**
 **Slipped:**
 **Tomorrow:**

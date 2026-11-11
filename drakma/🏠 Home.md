@@ -31,6 +31,18 @@ review_note: "Dashboard, kept up to date by Claude."
 - Centenary: MTP UI/UX approval; confirmation the micro-lending risk items are closed
 - Sherry: CloudFront certificates
 
+## 🧠 Decisions waiting
+- **AML rule conditions:** Option A (fixed attributes) or B (user-built)? → [[Rule Configuration]]
+- **Sure Pay access token:** handled by us or by Hitachi? → [[Sure Pay]] (development starts 12 Nov)
+- **URA branch code:** `CNB1` or the code used in the 29 Oct test? → [[URA Tax Payments]] (UAT 30 Nov)
+- **API7 2FA upgrade:** internal approval and maintenance window → [[API7 Gateway]]
+- **AML data layout:** record what was actually chosen → [[AML Fraud detection data layout & storage]]
+
+## 📚 Learning queue
+- **API7 3.10.9 upgrade:** forwarded headers, rolling data-plane upgrade, custom-plugin API changes → needed for API7's 4 checks ([[API7 Gateway]])
+- **API7 key concepts:** gateway groups, services, routes, upstreams, consumers → finish [[Architecture]]
+- **Service discovery:** answer the open questions (registry, client vs server-side load balancing) → [[service discovery]]
+
 ## 📊 Projects
 | Project | Status | Next step |
 |---|---|---|
