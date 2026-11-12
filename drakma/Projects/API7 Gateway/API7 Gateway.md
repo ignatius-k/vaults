@@ -12,7 +12,7 @@ Run all partner integrations safely through the API7 gateway: GonzaPay billers (
 
 ## 📍 Status (12 Nov 2026)
 - **Dashboard 2FA:** needs an upgrade from **3.10.1 → 3.10.9** (control plane first, then data planes). I sent API7 the plugin list and redacted ADC exports on 6 Nov. **API7 replied 11 Nov with 4 checks** for us (below).
-- **Billing:** Sherry logged an AWS case about missing API7 Cloud charges (30 Oct); subscription active since 22 Jul. API7 (Zhi Yuan Ju, 29 Oct) asked whether drakma.admin.api7.cloud is still used and to clear any outstanding amount.
+- **Billing:** [[Sherry Alan Fintan|Sherry]] logged an AWS case about missing API7 Cloud charges (30 Oct); subscription active since 22 Jul. API7 ([[Zhi Yuan Ju]], 29 Oct) asked whether drakma.admin.api7.cloud is still used and to clear any outstanding amount.
 
 ## ✅ Tasks
 **2FA upgrade – answer API7's checks (from 11 Nov email)**
@@ -24,7 +24,7 @@ Run all partner integrations safely through the API7 gateway: GonzaPay billers (
 
 **Other**
 - [ ] Onboard Africa's Talking API in the gateway (PROD) and test #api7
-- [ ] Confirm with Sherry/Veeru the status of API7 billing and the commercial proposal #api7
+- [ ] Confirm with Sherry/[[Veeru Yelluru|Veeru]] the status of API7 billing and the commercial proposal #api7
 
 **From older notes – please confirm if still open**
 - [ ] MTP integration documentation shared #api7
@@ -42,7 +42,7 @@ Run all partner integrations safely through the API7 gateway: GonzaPay billers (
 - Default ports: 9080 (HTTP), 9443 (HTTPS). Integrations host: `integrations.drakma.com:9543`.
 
 ## 👥 People
-API7: Yuan Bao (support), Zhi Yuan Ju (Head of Global) · Drakma: Sherry (infra), Veeru, Ranjan
+API7: [[Yuan Bao]] (support), Zhi Yuan Ju (Head of Global) · Drakma: Sherry (infra), Veeru, [[Ranjan Epili|Ranjan]]
 
 ## 🔗 Notes & meetings
 - [[Architecture]] · [[Introduction]] · [[Security overview for partners]]

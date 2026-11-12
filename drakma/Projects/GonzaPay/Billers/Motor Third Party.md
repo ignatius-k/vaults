@@ -11,14 +11,14 @@ review_note: "Confirm the 3 ❓ items: 400-response fields, IDD review, solution
 Motor third-party insurance payments through GonzaPay, via **ServiceCops** (the MTP system). Part of [[GonzaPay]].
 
 ## 📍 Status (12 Nov 2026)
-- APIs onboarded on the gateway and given to the backend team (UAT credentials sent to Praneeth, 21 Oct; base URL on `integrations.drakma.com:9543`).
-- **UI/UX document waiting for bank approval** – Veeru asked Keneth, Beth and Micheal to approve (11 Nov).
+- APIs onboarded on the gateway and given to the backend team (UAT credentials sent to [[Praneeth Damian|Praneeth]], 21 Oct; base URL on `integrations.drakma.com:9543`).
+- **UI/UX document waiting for bank approval** – [[Veeru Yelluru|Veeru]] asked [[Keneth Sululu|Keneth]], [[Beth Nabukenya|Beth]] and [[Micheal Kalyango|Micheal]] to approve (11 Nov).
 - UAT 10–14 Dec, go-live 20 Dec (moved 10 days because of a 15-day delay getting API information).
 - Micheal (11 Nov): the schedule is still as in his 20 Oct email.
 - ❓ Dates disagree (11 Nov mails): ServiceCops expects UAT from **23 Nov** with sign-off 30 Nov; Micheal said UAT starts **30 Nov** once the app is ready; DCP says UAT **10 Dec**. Which is right?
 
 ## ✅ Tasks
-- [ ] Reply to Kithmini: which fields come back on a **400** response (asked 26 Oct) ❓ already answered? #gonzapay
+- [ ] Reply to [[Kithmini Chamathka Wanasundara|Kithmini]]: which fields come back on a **400** response (asked 26 Oct) ❓ already answered? #gonzapay
 - [ ] Review the MTP internal design document (IDD) uploaded by Kithmini (29 Oct) ❓ done? #gonzapay
 - [ ] Review the GonzaPay MTP solution document (Kithmini, 28 Oct) ❓ done? #gonzapay
 
@@ -32,7 +32,7 @@ Motor third-party insurance payments through GonzaPay, via **ServiceCops** (the 
 - UAT settlement account for MTP: given by Keneth on 16 Oct (see the CR comments).
 
 ## 👥 People
-Micheal Kalyango, Keneth Sululu, Beth Nabukenya (Centenary) · Maxwell Opio, M. Muhereza (ServiceCops) · Praneeth, Anuruddha, Umaya Delpachithra (Hitachi)
+Micheal Kalyango, Keneth Sululu, Beth Nabukenya (Centenary) · [[Maxwell Opio]], M. Muhereza (ServiceCops) · Praneeth, [[Anuruddha Bandara|Anuruddha]], [[Umaya Delpachithra]] (Hitachi)
 
 ## 🔗 Links
 - [[MTP integration notes]]

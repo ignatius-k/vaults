@@ -10,7 +10,7 @@ review_note: "Confirm whether projects.drakma.com certificate was renewed on 3 N
 Everything that isn't one project: certificates, hiring, internal tools, trainings.
 
 ## 📍 Status (12 Nov 2026)
-- **SSL renewal** (CAB-SEC-2026-10-29-001): most apps updated by Sherry on 3 Nov. Apps behind **CloudFront** need their certificates changed there – I flagged aml and uedclsupport to Sherry on 11 Nov.
+- **SSL renewal** (CAB-SEC-2026-10-29-001): most apps updated by [[Sherry Alan Fintan|Sherry]] on 3 Nov. Apps behind **CloudFront** need their certificates changed there – I flagged aml and uedclsupport to Sherry on 11 Nov.
 - Mandatory trainings (Security Awareness, Data Protection) were assigned in Oct; HRMS shows **0 pending trainings**.
 
 ## ✅ Tasks
