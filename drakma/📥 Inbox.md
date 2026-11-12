@@ -16,4 +16,4 @@ review_note: "Quick capture; emptied by Claude."
 - carried over - projects.drakma.com certificate - this is done
 - carried over -  AML: design the new wallet-opening rule - this is not done
 - carried over - Africa's Talking in the production gateway - not yet done
-- 
+- surepay fully tested, next is onboarding, plugin building, and creating and sharing documentation with Hitachi
