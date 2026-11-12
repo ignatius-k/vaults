@@ -92,7 +92,12 @@ student found
 transaction status
 
 request
-
+{
+  "transactionId": "20261112100001",
+  "accountType": "SCHOOLFEES",
+  "accountCategory": "SCHOOLFEES"
+}
+response
 transaction not found
 {
 	"accountName": "",
@@ -127,5 +132,37 @@ transaction found
 
 
 make payment
+request
+{
+  "accountNumber": "1731400002",
+  "accountName": "KIRYA JOASH",
+  "accountType": "SCHOOLFEES",
+  "accountCategory": "SCHOOLFEES",
+  "accountProvider": "NEW STANDARD KALEEGERO PRIMARY SCHOOL",
+  "bankCode": "CENTENARY_GONZAPAY",
+  "tranAmount": "2000",
+  "tranType": "PAYMENT",
+  "tranCategory": "BANK",
+  "channel": "BANK",
+  "currency": "UGX",
+  "paymentDate": "2026-11-12",
+  "tranSignature": "aTjifEIIvBNFtEToXKr5eE4G5EfcK1kXfH0FWMnmQNBNM6n74yLkwfxhv0uSrsPLFSSaavpQE0j+MlfT/HHemQ==",
+  "transactionId": "20261112100001",
+  "narration": "School Fees Payment"
+}
 
 successfult payment
+{
+	"gatewayReference": "331084310881",
+	"statusCode": "SUCCESS",
+	"statusDesc": "Transaction Received Successfully",
+	"transactionId": "20261112100001"
+}
+
+when a makepayment is posted again, but it was captured already
+{
+	"gatewayReference": "331084310881",
+	"statusCode": "SUCCESS",
+	"statusDesc": "Transaction Notified Successfully",
+	"transactionId": "20261112100001"
+}
