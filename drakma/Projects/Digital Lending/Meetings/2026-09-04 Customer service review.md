@@ -10,7 +10,7 @@ review_note: "Contains a phone number and an ID – remove them if they belong t
 
 > Old note, kept as written. Decisions and actions from it are in the [[Digital Lending]] hub.
 
-- export feature; more discussion - Ranjan
+- export feature; more discussion - [[Ranjan Epili|Ranjan]]
 - CM24190496NYG1
 - +256755074336
 

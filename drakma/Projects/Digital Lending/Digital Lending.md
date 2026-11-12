@@ -14,15 +14,15 @@ Build **LMS v2** – a loan management system split into services – and delive
 ## 📍 Status (12 Nov 2026)
 - **Done:** Product service, Customer service.
 - **To do:** Loan Processor, Loan Accounting, Payments Processor, Operations service, Loan Servicing, Scoring Engine, Notification service.
-- **LMS v2.0 timelines** per module were shared by Kithmini to Veeru on 9 Nov ("LMS V2.0 - Project Timelines").
+- **LMS v2.0 timelines** per module were shared by [[Kithmini Chamathka Wanasundara|Kithmini]] to [[Veeru Yelluru|Veeru]] on 9 Nov ("LMS V2.0 - Project Timelines").
 - All 10 service CRs are approved, in **backlog, with no dates** yet in DCP.
-- **Centenary micro-lending:** Drakma answered the CRDB Risk and Data Protection queries on 22 Oct. On 11 Nov Centenary asked Keneth to confirm whether that closes all risk items.
-- **Pearl Bank:** fix to encrypt the phone number in `dwh_digi_loans` deployed to UAT (10 Nov); KYC data fetch and DB function update in progress with Sai (11 Nov). MSME digital lending: Pearl running UVTs with scored customers (19 Oct).
+- **Centenary micro-lending:** Drakma answered the CRDB Risk and Data Protection queries on 22 Oct. On 11 Nov Centenary asked [[Keneth Sululu|Keneth]] to confirm whether that closes all risk items.
+- **Pearl Bank:** fix to encrypt the phone number in `dwh_digi_loans` deployed to UAT (10 Nov); KYC data fetch and DB function update in progress with [[Sai Karthik|Sai]] (11 Nov). MSME digital lending: Pearl running UVTs with scored customers (19 Oct).
 
 ## 📅 Service CRs (DCP, PRJ-0001)
 | CR | Service | Owner |
 |---|---|---|
-| CR-001 | Notification service | Ranjan |
+| CR-001 | Notification service | [[Ranjan Epili|Ranjan]] |
 | CR-002 | Customer service | Kithmini |
 | CR-003 | Product service | Kithmini |
 | CR-004 | Credit Scoring Engine | Kithmini |
@@ -63,7 +63,7 @@ Build **LMS v2** – a loan management system split into services – and delive
 - **CRDB accounting (21 Jul):** write-offs in batch; classification PA → NPA → Write-off; charges/fees built into interest rates; reporting via portal and the bank's intelligence platform.
 
 ## 👥 People
-Ranjan (lead), Kithmini (BA), Sai Karthik (notification service) · Centenary: Keneth Sululu, David Keneth Mwesigwa · Pearl Bank: Micheal Bukenya, Oketcho Hillary, Martha Akora, Adons Aryong
+Ranjan (lead), Kithmini (BA), Sai Karthik (notification service) · Centenary: Keneth Sululu, [[David Keneth Mwesigwa]] · Pearl Bank: [[Micheal Bukenya]], Oketcho Hillary, [[Martha Akora]], [[Adons Aryong]]
 
 ## 🔗 Notes & meetings
 - Scope: [[LMS Project Scope; tasks and subtasks]] · [[service discovery]]
