@@ -23,11 +23,11 @@ review_note: "Dashboard, kept up to date by Claude."
 - [ ] Answer API7's 4 upgrade checks (headers, Stanbic staging test, scripts, memory) → [[API7 Gateway]]
 - [ ] Reply to Stanbic on partner portal testing → [[QRPe]] · asked 11 Nov
 - [ ] Review the notification service document → [[Digital Lending]] · asked 9 Nov
-- [ ] Read [[Sai Karthik|Sai]]'s handover document → [[GonzaPay]]
+- [ ] Read [[People#Drakma|Sai]]'s handover document → [[GonzaPay]]
 - [ ] Onboard Sure Pay API on the gateway → [[Sure Pay]]
 - [ ] Be ready for URA UAT → [[URA Tax Payments]] · 30 Nov
 - [ ] Fix AML-007 dormant account rule → [[GonzaPay AML]]
-- [x] CloudFront certificates (aml, uedclsupport) – with Sherry → [[Ops & Admin]]
+- [x] CloudFront certificates (aml, uedclsupport) – with [[People#Drakma|Sherry]] → [[Ops & Admin]]
 - [ ] ❓ Confirm MTP UAT date (23 Nov, 30 Nov or 10 Dec?) → [[Motor Third Party]]
 
 ## 🧠 Decisions waiting
@@ -43,7 +43,7 @@ review_note: "Dashboard, kept up to date by Claude."
 - **Service discovery:** answer the open questions (registry, client vs server-side load balancing) → [[service discovery]]
 
 ## ⏳ Waiting on others
-- Hitachi: review of QRPe documentation; [[Pasidu Rajapaksha|Pasidu]]/[[Manjula Kumaragama|Manjula]] reviewing the routing document (since 10 Nov)
+- Hitachi: review of QRPe documentation; [[People#Hitachi (HDPS)|Pasidu]]/[[People#Hitachi (HDPS)|Manjula]] reviewing the routing document (since 10 Nov)
 - Stanbic: production API access + credentials; new SIT date (bank network issue, 11 Nov)
 - Centenary: MTP UI/UX approval; confirmation the micro-lending risk items are closed
 - Sherry: CloudFront certificates

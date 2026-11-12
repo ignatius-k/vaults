@@ -13,8 +13,8 @@ School-fees payments through GonzaPay. Part of [[GonzaPay]].
 ## 📍 Status (12 Nov 2026)
 - **Sprint-2 development starts 12 Nov.** UAT 4–8 Jan 2027, go-live 12 Jan 2027.
 - First call with the Sure Pay team held **Mon 9 Nov** → [[2026-11-09 Sure Pay call]].
-- **Credentials received** from [[Keneth Sululu]] by email on 10 Nov ("FW: Biller-Sure Pay CREDENTIALS"). Keep them in the password manager, not here.
-- [[Veeru Yelluru|Veeru]] (10 Nov) shared a document with [[Praneeth Damian|Praneeth]] on the CR to "make this much simpler" – discuss.
+- **Credentials received** from [[People#Centenary Bank (CRDB)|Keneth Sululu]] by email on 10 Nov ("FW: Biller-Sure Pay CREDENTIALS"). Keep them in the password manager, not here.
+- [[People#Drakma|Veeru]] (10 Nov) shared a document with [[People#Hitachi (HDPS)|Praneeth]] on the CR to "make this much simpler" – discuss.
 
 ## ✅ Tasks
 - [ ] Test the core APIs: validate reference and make payment #gonzapay
@@ -42,4 +42,4 @@ School-fees payments through GonzaPay. Part of [[GonzaPay]].
 - ❓ Is the access-token request handled on our side?
 
 ## 👥 People
-Keneth Sululu, [[Micheal Kalyango]] (Centenary) · [[Elvis Onyango]] (Sure Pay) · Stella Nakamya (Centenary, on leave; cover: Elvis Kirya)
+[[People#Centenary Bank (CRDB)|Keneth Sululu]], [[People#Centenary Bank (CRDB)|Micheal Kalyango]] (Centenary) · [[People#Sure Pay|Elvis Onyango]] (Sure Pay) · Stella Nakamya (Centenary, on leave; cover: Elvis Kirya)

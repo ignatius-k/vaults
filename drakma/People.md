@@ -4,53 +4,76 @@ review: ok
 ---
 # 👥 People
 
-One note per person in `People/`. Tap a name to open it; its **Backlinks** show every note that mentions them. Claude adds new people and contact details from email signatures.
+Everyone I work with, by organisation. Names in other notes link here. Claude adds new people and fills in contact details from email signatures.
 
 ## Drakma
-- [[Veeru Yelluru]] – Project/delivery lead, partner contact
-- [[Kithmini Chamathka Wanasundara]] – Business analyst / PM
-- [[Ranjan Epili]] – Lead; approves my HRMS requests
-- [[Sherry Alan Fintan]] – Infrastructure / DevOps (AWS, certificates, IPs)
-- [[Sai Karthik]] – Handed over GonzaPay & QRPe work (27 Oct); notification service
-- [[Smart Suresh]] – Engineering
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Veeru Yelluru | Project/delivery lead, partner contact | veeru@drakma.com | [[GonzaPay]], [[QRPe]] |
+| Kithmini Chamathka Wanasundara | Business analyst / PM | kithmini@drakma.com | [[GonzaPay]], [[QRPe]], [[Digital Lending]] |
+| Ranjan Epili | Lead; approves my HRMS requests | ranjan@drakma.com | [[Digital Lending]], [[API7 Gateway]] |
+| Sherry Alan Fintan | Infrastructure / DevOps (AWS, certificates, IPs) | sherry@drakma.com | [[API7 Gateway]], [[QRPe]], [[Ops & Admin]] |
+| Sai Karthik | Handed over GonzaPay & QRPe work (27 Oct); notification service | sai.karthik@drakma.com · +256 778 027230 | [[Digital Lending]] |
+| Smart Suresh | Engineering | — | [[Ops & Admin]], [[QRPe]] |
 
 ## Hitachi (HDPS)
-- [[Anuruddha Bandara]] – Lead – daily calls, QRPe, GonzaPay
-- [[Tishara Kodithuwakku]] – QRPe – QR codes, bulk upload, UAT credentials
-- [[Praneeth Damian]] – GonzaPay backend – billers, CRs
-- [[Hiranya Wijesiri]] – URA integration
-- [[Umaya Delpachithra]] – UI/UX documents
-- [[Pasidu Rajapaksha]] – QRPe gateway routing review
-- [[Manjula Kumaragama]] – QRPe gateway routing review
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Anuruddha Bandara | Lead – daily calls, QRPe, GonzaPay | anuruddha.bandara@hitachi-dps.com | [[QRPe]], [[GonzaPay]] |
+| Tishara Kodithuwakku | QRPe – QR codes, bulk upload, UAT credentials | tishara.dulakshi@hitachi-dps.com | [[QRPe]] |
+| Praneeth Damian | GonzaPay backend – billers, CRs | — | [[GonzaPay]] |
+| Hiranya Wijesiri | URA integration | — | [[GonzaPay]] |
+| Umaya Delpachithra | UI/UX documents | — | [[GonzaPay]] |
+| Pasidu Rajapaksha | QRPe gateway routing review | pasidu.rajapaksha@hitachi-dps.com | [[QRPe]] |
+| Manjula Kumaragama | QRPe gateway routing review | manjula.kumaragama@hitachi-dps.com | [[QRPe]] |
 
 ## Centenary Bank (CRDB)
-- [[Keneth Sululu]] – Manager, Product Development – billers, CR approvals
-- [[Micheal Kalyango]] – Centenary Tech, Product & Business Development – billers
-- [[Beth Nabukenya]] – Approver (MTP UI/UX)
-- [[David Keneth Mwesigwa]] – Micro-lending / risk follow-up
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Keneth Sululu | Manager, Product Development – billers, CR approvals | Keneth.Sululu@centenarybank.co.ug · Tel +256 417 202339 · Mobile +256 701 198978 | [[GonzaPay]], [[Digital Lending]] |
+| Micheal Kalyango | Centenary Tech, Product & Business Development – billers | Micheal.Kalyango@centenarygroup.co.ug | [[GonzaPay]] |
+| Beth Nabukenya | Approver (MTP UI/UX) | — | [[GonzaPay]] |
+| David Keneth Mwesigwa | Micro-lending / risk follow-up | — | [[Digital Lending]], [[GonzaPay]] |
 
 ## Stanbic
-- [[Imeldah Nalubowa]] – Manager, Demand & Execution – go-live, SIT plan
-- [[Julius Nasasira]] – Testing / integration
-- [[Victor Ssebugwawo]] – Team (cc on QRPe)
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Imeldah Nalubowa | Manager, Demand & Execution – go-live, SIT plan | NalubowaI@stanbic.com | [[QRPe]] |
+| Julius Nasasira | Testing / integration | NasasiraJ2@stanbic.com | [[QRPe]] |
+| Victor Ssebugwawo | Team (cc on QRPe) | SsebugwawoV@stanbic.com | [[QRPe]] |
 
 ## Pearl Bank
-- [[Phillip Makwasi]] – Fintech Product – QRPe off-us
-- [[Caroline Abenaitwe]] – Change & Project Management
-- [[Micheal Bukenya]] – Digital loans data fetch
-- [[Martha Akora]] – Fintech Applications
-- [[Adons Aryong]] – MSME digital lending
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Phillip Makwasi | Fintech Product – QRPe off-us | — | [[QRPe]] |
+| Caroline Abenaitwe | Change & Project Management | — | [[QRPe]] |
+| Micheal Bukenya | Digital loans data fetch | — | [[Digital Lending]] |
+| Martha Akora | Fintech Applications | Martha.Akora@pearlbank.com | [[Digital Lending]] |
+| Adons Aryong | MSME digital lending | — | [[Digital Lending]] |
 
 ## API7
-- [[Yuan Bao]] – Support – 2FA upgrade
-- [[Zhi Yuan Ju]] – Commercial, billing
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Yuan Bao | Support – 2FA upgrade | baoyuan@api7.ai | [[API7 Gateway]] |
+| Zhi Yuan Ju | Commercial, billing | — | [[API7 Gateway]] |
 
 ## URA
-- [[David Kaisu]] – URA tax payments
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| David Kaisu | URA tax payments | — | [[GonzaPay]] |
 
 ## ServiceCops
-- [[Maxwell Opio]] – Motor Third Party
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Maxwell Opio | Motor Third Party | — | [[GonzaPay]] |
 
 ## Sure Pay
-- [[Elvis Onyango]] – Sure Pay biller
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Elvis Onyango | Sure Pay biller | — | [[GonzaPay]] |
 
+## Africa's Talking
+| Name | Role | Contact | Projects |
+|---|---|---|---|
+| Mark Ssembajjwe | SMS | — | [[QRPe]] |
+| Asenanth Atuhumuza | SMS | — | [[QRPe]] |

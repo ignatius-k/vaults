@@ -8,5 +8,5 @@ If it works for us ie all the requirements in the document shared
 
 ==NOTE==: the gateways are hosted on your VPC then linked in the control plane
 
-[[Veeru Yelluru|Veeru]] suggests we use the NWSC UAT APIs, and UEDCL APIs
+[[People#Drakma|Veeru]] suggests we use the NWSC UAT APIs, and UEDCL APIs
 

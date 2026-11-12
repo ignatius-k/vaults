@@ -11,4 +11,4 @@ review_note: "History – kept as written."
 > Old note, kept as written. Decisions and actions from it are in the [[QRPe]] hub.
 
 - QRpe data tables, in the GonzaPay database, to be cleaned
-- ==TODO== Check with [[Sherry Alan Fintan|Sherry]], in migrating the gateway service instance to the new environment
+- ==TODO== Check with [[People#Drakma|Sherry]], in migrating the gateway service instance to the new environment

@@ -9,7 +9,7 @@ review_note: "Current."
 ---
 # Sure Pay call – 9 Nov 2026
 
-**With:** Sure Pay team, Centenary ([[Keneth Sululu]]), Drakma
+**With:** Sure Pay team, Centenary ([[People#Centenary Bank (CRDB)|Keneth Sululu]]), Drakma
 **Context:** first call with the biller; Sprint-2 development starts 12 Nov. See [[Sure Pay]].
 
 ## Answers we got
