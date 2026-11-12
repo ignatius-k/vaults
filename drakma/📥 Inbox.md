@@ -13,4 +13,7 @@ review_note: "Quick capture; emptied by Claude."
 - API7 requirement to also handle inbound traffic to QRPe, currently a review about the documentation of this is pending with Hitachi, however, also I need to onboard and test the QRPe API with credentials shared by Tishara-Hitachi, then after testing we use the same architecture in the production
 - cloudfront certificates - sherry this was done
 - carried over - Stanbic go-live details - this were shared
+- carried over - projects.drakma.com certificate - this is done
+- carried over -  AML: design the new wallet-opening rule - this is not done
+- carried over - Africa's Talking in the production gateway - not yet done
 - 
