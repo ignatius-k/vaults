@@ -29,20 +29,23 @@ Who's who, so messages can be matched to projects. Add people as you meet them.
 | Pasidu Rajapaksha, Manjula Kumaragama, Udaya Wijesooriya | QRPe gateway routing review |
 
 ## Centenary Bank (CRDB) – GonzaPay & lending
-| Name | Role |
-|---|---|
-| Keneth Sululu | Manager, Product Development – billers, CR approvals |
-| Micheal Kalyango | Centenary Tech, Product & Business Development – billers |
-| Beth Nabukenya | Approver (MTP UI/UX) |
-| David Keneth Mwesigwa | Micro-lending / risk follow-up |
-| Stella Nakamya | (on leave – cover: Elvis Kirya) |
+| Name | Role | Contact |
+|---|---|---|
+| Keneth Sululu | Manager Product Development, Strategy & Business Transformation – billers, CR approvals | Keneth.Sululu@centenarybank.co.ug · +256 417 202339 / +256 701 198978 |
+| Micheal Francis Kalyango | Manager Product & Business Development, Centenary Technology Services – billers, MTP | Micheal.Kalyango@centenarygroup.co.ug |
+| Beth Nabukenya | Approver (MTP UI/UX) | |
+| David Keneth Mwesigwa | Micro-lending / risk follow-up; QRPe merchant onboarding (TPS) | DavidKeneth.Mwesigwa@centenarybank.co.ug |
+| Stella Nakamya | (on leave – cover: Elvis Kirya, Elvis.Kirya@centenarybank.co.ug) | |
+| Narisensio Turyatunga | QRPe merchant onboarding (TPS timeout, 10 Nov) | |
 
 ## Stanbic – QRPe
 | Name | Role |
 |---|---|
-| Imeldah Nalubowa | Manager, Demand & Execution – go-live, SIT plan |
+| Imeldah Nalubowa | Manager, Demand & Execution, Operational Excellence – go-live, SIT plan, partner portal · NalubowaI@stanbic.com · +256 312 224 900 |
 | Julius Nasasira | Testing / integration |
 | Victor Ssebugwawo, Josamu Kwagala, Joshua Byenkya | Team (cc) |
+| Maria Assumpta Katusiime | cc on partner portal implementation plan |
+| Emmanuel Serunjogi, Micheal Ojambo, Gabriel Kagwisagye | cc on SIT / bank network updates |
 
 ## Pearl Bank (PBUG)
 | Name | Role |
@@ -50,8 +53,9 @@ Who's who, so messages can be matched to projects. Add people as you meet them.
 | Phillip Makwasi | Fintech Product – QRPe off-us |
 | Caroline Abenaitwe | Change & Project Management |
 | Micheal Bukenya, Oketcho Hillary | Digital loans data fetch |
-| Martha Akora | Fintech Applications |
+| Martha Felice Akora | Fintech Applications Officer · Martha.Akora@pearlbank.com · +256 708 288453 |
 | Adons Aryong | MSME digital lending |
+| Augustine Mukasa | KYC data fetch for agents (with Sai, 11 Nov) |
 
 ## Partners & vendors
 | Name | Company | Topic |
@@ -59,6 +63,7 @@ Who's who, so messages can be matched to projects. Add people as you meet them.
 | Yuan Bao | API7 | Support – 2FA upgrade |
 | Zhi Yuan Ju | API7 | Commercial, billing |
 | David Kaisu, B. Ndyomugabe | URA | URA tax payments |
-| Maxwell Opio, M. Muhereza | ServiceCops | Motor Third Party |
+| Maxwell Opio, Mark Muhereza, Sam Nturanabo | ServiceCops | Motor Third Party (UAT timing) |
+| Elizabeth Musasizi | Neon Insurance | Motor Third Party (cc) |
 | Elvis Onyango | Sure Pay | Sure Pay biller |
 | Mark Ssembajjwe, Asenanth Atuhumuza | Africa's Talking | SMS |

@@ -22,7 +22,7 @@ Take QRPe live with **Stanbic**, with all bank and Hitachi traffic going through
 
 ## ✅ Tasks
 **This week**
-- [ ] Share the routing document with the Hitachi team on the "Routing Stanbic Inbound Traffic Through API Gateway" thread (Kithmini, 9 Nov) #qrpe
+- [x] Share the routing document with the Hitachi team on the "Routing Stanbic Inbound Traffic Through API Gateway" thread (Kithmini, 9 Nov) #qrpe ✅ 2026-11-09 (sent to Anuruddha 9 Nov; Hitachi reviewing)
 - [ ] Reply to Stanbic on "Testing the Partner Bank portal" (Imeldah tagged me, 11 Nov) #qrpe
 - [ ] Keep the APIs stable so Stanbic can restart SIT before the 25 Nov freeze #qrpe
 
@@ -50,6 +50,7 @@ Take QRPe live with **Stanbic**, with all bank and Hitachi traffic going through
 
 ## ⏳ Waiting on
 - [ ] ⏳ Waiting on @Hitachi: review of the QRPe documentation
+- [ ] ⏳ Waiting on @Hitachi (Pasidu, Manjula): review of the Stanbic routing document (asked by Anuruddha, 10 Nov)
 - [/] ⏳ Waiting on @Stanbic: production access to the **Flexipay Drakma Merchant Settlement** API + credentials (partly done)
 - [ ] ⏳ Waiting on @Stanbic: new SIT date after the API stability check
 
