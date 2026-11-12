@@ -27,7 +27,7 @@ review_note: "Dashboard, kept up to date by Claude."
 - [ ] Onboard Sure Pay API on the gateway → [[Sure Pay]]
 - [ ] Be ready for URA UAT → [[URA Tax Payments]] · 30 Nov
 - [ ] Fix AML-007 dormant account rule → [[GonzaPay AML]]
-- [ ] CloudFront certificates (aml, uedclsupport) – with Sherry → [[Ops & Admin]]
+- [x] CloudFront certificates (aml, uedclsupport) – with Sherry → [[Ops & Admin]]
 - [ ] ❓ Confirm MTP UAT date (23 Nov, 30 Nov or 10 Dec?) → [[Motor Third Party]]
 
 ## 🧠 Decisions waiting
