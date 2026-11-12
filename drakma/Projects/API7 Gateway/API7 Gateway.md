@@ -24,10 +24,10 @@ Run all partner integrations safely through the API7 gateway: GonzaPay billers (
 
 **Other**
 - [ ] Onboard Africa's Talking API in the gateway (PROD) and test #api7
-- [ ] Confirm with [[People#Drakma|Sherry]]/[[People#Drakma|Veeru]] the status of API7 billing and the commercial proposal #api7
+- [x] Confirm with [[People#Drakma|Sherry]]/[[People#Drakma|Veeru]] the status of API7 billing and the commercial proposal #api7
 
 **From older notes – please confirm if still open**
-- [ ] MTP integration documentation shared #api7
+- [x] MTP integration documentation shared #api7
 - [ ] Airtel integration: callback + documentation from HDPS #api7
 - [ ] Research advanced API routing #api7
 

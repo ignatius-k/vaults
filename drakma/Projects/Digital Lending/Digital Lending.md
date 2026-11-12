@@ -20,18 +20,18 @@ Build **LMS v2** – a loan management system split into services – and delive
 - **Pearl Bank:** fix to encrypt the phone number in `dwh_digi_loans` deployed to UAT (10 Nov); KYC data fetch and DB function update in progress with [[People#Drakma|Sai]] (11 Nov). MSME digital lending: Pearl running UVTs with scored customers (19 Oct).
 
 ## 📅 Service CRs (DCP, PRJ-0001)
-| CR | Service | Owner |
-|---|---|---|
-| CR-001 | Notification service | [[People#Drakma|Ranjan]] |
-| CR-002 | Customer service | [[People#Drakma|Kithmini]] |
-| CR-003 | Product service | Kithmini |
-| CR-004 | Credit Scoring Engine | Kithmini |
-| CR-005 | Operations service | **me** |
-| CR-006 | Loan Processor | **me** |
-| CR-007 | Loan Accounting | **me** |
-| CR-008 | Loan Servicing | **me** |
-| CR-009 | Payments Processor | **me** |
-| CR-010 | Data Processor | Kithmini |
+| CR     | Service               | Owner           |            |
+| ------ | --------------------- | --------------- | ---------- |
+| CR-001 | Notification service  | [[People#Drakma | Ranjan]]   |
+| CR-002 | Customer service      | [[People#Drakma | Kithmini]] |
+| CR-003 | Product service       | Kithmini        |            |
+| CR-004 | Credit Scoring Engine | Kithmini        |            |
+| CR-005 | Operations service    | **me**          |            |
+| CR-006 | Loan Processor        | **me**          |            |
+| CR-007 | Loan Accounting       | **me**          |            |
+| CR-008 | Loan Servicing        | **me**          |            |
+| CR-009 | Payments Processor    | **me**          |            |
+| CR-010 | Data Processor        | Kithmini        |            |
 
 ## ✅ Tasks
 - [ ] Review the updated **notification service** document and confirm ([[People#Drakma|Sai]], 9 Nov) #lending
