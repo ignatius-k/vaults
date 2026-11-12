@@ -1,4 +1,12 @@
 validation
+
+request
+{
+  "accountNumber": "1696000001",
+  "accountType": "SCHOOLFEES",
+  "accountCategory": "SCHOOLFEES"
+}
+responses
 student not found
 {
 	"accountCategory": "",
@@ -26,8 +34,65 @@ student not found
 	"type": null
 }
 
+student found
+{
+	"accountCategory": "SCHOOLFEES",
+	"accountName": "KIRYA JOASH",
+	"accountNumber": "1731400002",
+	"accountProvider": "NEW STANDARD KALEEGERO PRIMARY SCHOOL",
+	"accountType": "SCHOOLFEES",
+	"addendum": "Baby",
+	"airtelOva": null,
+	"bankAccountCurrency": "UGX",
+	"bankAccountNumber": "3203912209",
+	"bankId": "",
+	"bankName": "CENTENARY BANK",
+	"convertedOutstandingBalance": "68000.0",
+	"dollarRate": null,
+	"minimumBalance": 0,
+	"minimumFees": null,
+	"mtnOva": null,
+	"outstandingBalance": "68000.0",
+	"processId": null,
+	"schoolCode": "17314",
+	"statusCode": "SUCCESS",
+	"statusDesc": "SUCCESS",
+	"studentGrade": "Baby",
+	"type": null
+}
+
+student found
+{
+	"accountCategory": "SCHOOLFEES",
+	"accountName": "JOPIO TIMOTHY",
+	"accountNumber": "1696000001",
+	"accountProvider": "TRUST NURSERY AND PRIMARY SCHOOL",
+	"accountType": "SCHOOLFEES",
+	"addendum": "P.6",
+	"airtelOva": null,
+	"bankAccountCurrency": "UGX",
+	"bankAccountNumber": "3205107040",
+	"bankId": "",
+	"bankName": "CENTENARY BANK",
+	"convertedOutstandingBalance": "0.0",
+	"dollarRate": null,
+	"minimumBalance": 20000,
+	"minimumFees": null,
+	"mtnOva": null,
+	"outstandingBalance": "0.0",
+	"processId": null,
+	"schoolCode": "16960",
+	"statusCode": "SUCCESS",
+	"statusDesc": "SUCCESS",
+	"studentGrade": "P.6",
+	"type": null
+}
+
 
 transaction status
+
+request
+
 transaction not found
 {
 	"accountName": "",
@@ -59,3 +124,8 @@ transaction found
 	"transactionId": "20261112100001",
 	"transactionStatus": "SUCCESS"
 }
+
+
+make payment
+
+successfult payment
