@@ -4,11 +4,11 @@ In the meantime, could your team check the following?
 
 - **Forwarded headers.** Do any upstream services rely on `X-Forwarded-Proto`, `X-Forwarded-Host`, `X-Forwarded-Port`, or `Forwarded` from your load balancer, particularly if it terminates TLS? Currently, no
     
-- **Stanbic workflows.** In a staging environment running 3.10.9 with both of your custom plugins loaded, please run representative requests for merchant inquiry, merchant settlement, and transaction inquiry. Confirm that each workflow completes successfully. These checks will show whether the gateway can still obtain the upstream access token and sign requests as expected. Our engineering team will review the results and confirm plugin compatibility.
+- **Stanbic workflows.** In a staging environment running 3.10.9 with both of your custom plugins loaded, please run representative requests for merchant inquiry, merchant settlement, and transaction inquiry. Yes, this can be done
+
+- **Automation and container tooling.** If any scripts or pipelines call `/api/custom_plugins` or `/api/plugins/{name}/usage`,  No, we dont have any scripts using these API endpoints currently
     
-- **Automation and container tooling.** If any scripts or pipelines call `/api/custom_plugins` or `/api/plugins/{name}/usage`, they’ll need to use the corresponding gateway-group APIs and have `gateway:GetCustomPlugin` permission where applicable. Please also check any scripts or custom images that rely on tools such as `perl`, `apt`, `curl`, or `resty` inside the gateway container. Move affected tasks to the host or a separate container, and use `/usr/bin/apisix` when invoking `apisix` through `docker exec`.
-    
-- **Gateway memory.** We recommend adding about 400 MiB to each Data Plane container’s memory request and limit, or reviewing whether shared-memory allocations for unused features can be restored to their previous values. If you use Kubernetes, please also check available node memory and eviction thresholds. [API7 Gateway release notes](https://docs.api7.ai/api7-gateway/release-notes)
+- **Gateway memory.** We recommend adding about 400 MiB to each Data Plane container’s memory request and limit, or reviewing whether shared-memory allocations for unused features can be restored to their previous values. Ok, this is noted
     
 
 During the maintenance window, API7 will upgrade the Cloud Control Plane first. Once we’ve checked gateway connectivity and compatibility, your team can upgrade the Data Plane instances with our support. A compatibility report may be blank for an instance still running 3.10.1 during the rollout. Please pause configuration writes while the Control Plane is upgrading and avoid creating or editing routes or custom plugins throughout the window. As the Data Plane instances are upgraded, we’ll check HTTPS connectivity to each upstream and monitor gateway memory and error rates. [Data Plane Rolling Upgrade guide](https://docs.api7.ai/api7-gateway/upgrade-guides/rolling-upgrade)
