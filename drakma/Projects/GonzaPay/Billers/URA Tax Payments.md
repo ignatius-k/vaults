@@ -10,14 +10,17 @@ review_note: "Confirm which branch code is right (CNB1 vs the code used on 29 Oc
 
 Paying URA taxes through GonzaPay. Part of [[GonzaPay]].
 
-## 📍 Status (12 Nov 2026)
+## 📍 Status (13 Nov 2026)
 - **UAT 30 Nov – 4 Dec, go-live 8 Dec.**
+- **URA is onboarded on the API7 gateway** (13 Nov), but with a quirk: the `reason` field has to be sent **empty** for it to work. Follow up with [[People#URA|David Kaisu]].
 - Payment notification works in UAT after the troubleshooting call with URA (29 Oct): it succeeded once tested with the bank branch codes URA shared.
 - URA service credentials for the gateway were given to Hitachi ([[People#Hitachi (HDPS)|Hiranya]], 23 Oct).
 
 ## ✅ Tasks
 - [ ] Confirm which branch code to use in UAT and production (`CNB1` per [[People#Centenary Bank (CRDB)|Micheal]], 28 Oct, vs the code used in the 29 Oct test) #gonzapay
 - [ ] Be ready for UAT on 30 Nov #gonzapay
+- [x] Onboard URA on the API7 gateway #gonzapay ✅ 2026-11-13
+- [ ] Follow up with ⏳ @David Kaisu (URA): why the `reason` field must be empty for the call to work #gonzapay
 
 ## ⏳ Waiting on
 -

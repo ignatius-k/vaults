@@ -16,7 +16,7 @@ An AML and fraud detection system for GonzaPay that makes adding new (even unusu
 
 ## ✅ Tasks
 **New work**
-- [ ] Design and implement the new rule: new wallet → pull from bank → send straight to an external wallet #aml
+- [ ] Design and implement the new rule: new wallet → pull from bank → send straight to an external wallet #aml (carried over again 13 Nov)
 - [ ] Research easy rule onboarding, including unusual rules → [[Rule Configuration]] #aml
 - [ ] Research better transaction analysis: common patterns, using an LLM, better reports (in the app and by email) #aml
 - [ ] Pattern reporting in the app (e.g. a transaction quickly followed by another) #aml

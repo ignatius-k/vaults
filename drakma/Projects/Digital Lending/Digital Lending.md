@@ -11,24 +11,27 @@ review_note: "Confirm the 'from older notes' tasks and the ❓ architecture revi
 ## 🎯 Goal
 Build **LMS v2** – a loan management system split into services – and deliver digital lending for **Centenary (CRDB)** and **Pearl Bank**, fed by the **Credit Scoring Engine (CSE)** and **Data Processor (DPU)**.
 
-## 📍 Status (12 Nov 2026)
+## 📍 Status (13 Nov 2026)
+- **Customer service (CR-002) went live in production** (DCP, 12 Nov).
+- [[People#Drakma|Kithmini]] put dates on the CRs in DCP and tagged me (12 Nov) – see the table.
+- New: **LMS V2.0 Weekly Development Review**, Fridays 15:00–16:00 until 18 Dec.
 - **Done:** Product service, Customer service.
 - **To do:** Loan Processor, Loan Accounting, Payments Processor, Operations service, Loan Servicing, Scoring Engine, Notification service.
 - **LMS v2.0 timelines** per module were shared by [[People#Drakma|Kithmini]] to [[People#Drakma|Veeru]] on 9 Nov ("LMS V2.0 - Project Timelines").
-- All 10 service CRs are approved, in **backlog, with no dates** yet in DCP.
+- All 10 service CRs are approved; dates now set for CR-003, 005, 006, 007.
 - **Centenary micro-lending:** Drakma answered the CRDB Risk and Data Protection queries on 22 Oct. On 11 Nov Centenary asked [[People#Centenary Bank (CRDB)|Keneth]] to confirm whether that closes all risk items.
 - **Pearl Bank:** fix to encrypt the phone number in `dwh_digi_loans` deployed to UAT (10 Nov); KYC data fetch and DB function update in progress with [[People#Drakma|Sai]] (11 Nov). MSME digital lending: Pearl running UVTs with scored customers (19 Oct).
 
 ## 📅 Service CRs (DCP, PRJ-0001)
-| CR     | Service               | Owner           |            |
-| ------ | --------------------- | --------------- | ---------- |
-| CR-001 | Notification service  | [[People#Drakma | Ranjan]]   |
-| CR-002 | Customer service      | [[People#Drakma | Kithmini]] |
-| CR-003 | Product service       | Kithmini        |            |
-| CR-004 | Credit Scoring Engine | Kithmini        |            |
-| CR-005 | Operations service    | **me**          |            |
-| CR-006 | Loan Processor        | **me**          |            |
-| CR-007 | Loan Accounting       | **me**          |            |
+| CR | Service | Owner | Dates (DCP) |
+| --- | --- | --- | --- |
+| CR-001 | Notification service | [[People#Drakma\|Ranjan]] | |
+| CR-002 | Customer service | [[People#Drakma\|Kithmini]] | 🚀 live 12 Nov |
+| CR-003 | Product service | Kithmini (me tagged) | Dev + SIT 10–13 Nov |
+| CR-004 | Credit Scoring Engine | Kithmini | |
+| CR-005 | Operations service | **me** (+ Sai) | UI/UX 10 Nov – 4 Dec |
+| CR-006 | Loan Processor | **me** | Dev + SIT 16–20 Nov |
+| CR-007 | Loan Accounting | **me** | Dev + SIT 23–26 Nov |
 | CR-008 | Loan Servicing        | **me**          |            |
 | CR-009 | Payments Processor    | **me**          |            |
 | CR-010 | Data Processor        | Kithmini        |            |
@@ -37,8 +40,9 @@ Build **LMS v2** – a loan management system split into services – and delive
 - [ ] Review the updated **notification service** document and confirm ([[People#Drakma|Sai]], 9 Nov) #lending
 - [ ] Product service changes #lending
 - [ ] Integrate the product service with the loan processor #lending
-- [ ] Loan Processor #lending
-- [ ] Loan Accounting #lending
+- [ ] Confirm the CR dates Kithmini set in DCP (CR-003, 005, 006, 007 – 12 Nov) #lending 📅 2026-11-13
+- [ ] Loan Processor (CR-006) – Dev + SIT #lending 📅 2026-11-20
+- [ ] Loan Accounting (CR-007) – Dev + SIT #lending 📅 2026-11-26
 - [ ] Review [[People#Drakma|Ranjan]]'s customer journey service architecture flow (21 Oct) ❓ done? #lending
 - [x] Review the Loan Service SRS (Ranjan) – "I think it's ok" ✅ 2026-11-09
 

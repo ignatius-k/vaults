@@ -10,7 +10,12 @@ review_note: "Confirm the 'from older notes' tasks (DB clean-up, mutual TLS, Big
 ## 🎯 Goal
 Take QRPe live with **Stanbic**, with all bank and Hitachi traffic going through the API7 gateway, and finish off-us testing with Pearl Bank and Centenary.
 
-## 📍 Status (12 Nov 2026)
+## 📍 Status (13 Nov 2026)
+- **Stanbic on-us production go-live: tentatively today, 13 Nov.** [[People#Drakma|Veeru]]'s implementation plan lists what we must hand over (see Stanbic go-live tasks). Kithmini asked Stanbic (13 Nov) to share their items so we can move to production.
+- **MOU finalised** and out for signatures (Veeru → Hitachi, 12 Nov). Hitachi to update the QR template with all bank logos.
+- **Partner portal (UAT):** users re-created to match Stanbic's new user matrix ([[People#Drakma|Sai]], 13 Nov). Testing call with Stanbic **today 15:00–15:30**.
+- **VPN Stanbic ↔ Drakma is down** since last week; [[People#Drakma|Sherry]] asked [[People#Stanbic|Victor]] to check (12 Nov).
+- Stanbic asked for Drakma's rollback steps; Veeru replied it's config only and can be rolled back (12 Nov).
 - ⚠️ **Stanbic year-end change freeze starts 25 Nov.** Stanbic put **SIT with the other banks on hold** until Drakma's APIs are stable ([[People#Stanbic|Imeldah]], 4 Nov).
 - **Off-us SIT session 1 (Fri 13 Nov) was cancelled.** Stanbic reported intermittent bank network issues on their side (11 Nov).
 - **Partner portal and QRPe analytics are live in production.** For Stanbic we only need to enable them from the backend. [[People#Drakma|Veeru]] sent the implementation plan to Stanbic on 11 Nov.
@@ -23,14 +28,19 @@ Take QRPe live with **Stanbic**, with all bank and Hitachi traffic going through
 ## ✅ Tasks
 **This week**
 - [x] Share the routing document with the Hitachi team on the "Routing Stanbic Inbound Traffic Through API Gateway" thread ([[People#Drakma|Kithmini]], 9 Nov) #qrpe ✅ 2026-11-09 (sent to [[People#Hitachi (HDPS)|Anuruddha]] 9 Nov; Hitachi reviewing)
-- [ ] Reply to Stanbic on "Testing the Partner Bank portal" ([[People#Stanbic|Imeldah]] tagged me, 11 Nov) #qrpe
+- [x] Reply to Stanbic on "Testing the Partner Bank portal" ([[People#Stanbic|Imeldah]] tagged me, 11 Nov) #qrpe ✅ 2026-11-12
 - [ ] Keep the APIs stable so Stanbic can restart SIT before the 25 Nov freeze #qrpe
 
 **Stanbic go-live**
-- [ ] Share Stanbic go-live details with Veeru #qrpe
+- [x] Share Stanbic go-live details with Veeru #qrpe ✅ 2026-11-13
 - [ ] Make sure Stanbic gets the QR codes #qrpe
 - [ ] Onboard Stanbic's API in the production gateway once shared, then share credentials with Hitachi #qrpe
+- [ ] Get Stanbic's member-bank API details and onboard it on the gateway (per Veeru's implementation plan) #qrpe 📅 2026-11-13
+- [ ] Test the Stanbic APIs, especially **merchant inquiry** – ask Stanbic for a test merchant code #qrpe
+- [ ] Get the credentials banks need to call QRPe from [[People#Hitachi (HDPS)|Tishara]] and share them with Stanbic #qrpe
+- [ ] Share the **mutual-TLS certificate** we use when calling Stanbic's server #qrpe
 - [ ] Share the message-signing certificate with the Stanbic team #qrpe
+- [ ] Follow up with [[People#Drakma|Sherry]] that the Stanbic ↔ Drakma VPN is up (down as of 12 Nov) #qrpe
 - [ ] Get dummy merchants from Stanbic to test merchant settlement #qrpe
 - [ ] VPN documentation and network matrix, with [[People#Drakma|Sherry]] and Veeru #qrpe
 
@@ -53,6 +63,8 @@ Take QRPe live with **Stanbic**, with all bank and Hitachi traffic going through
 - [ ] ⏳ Waiting on @Hitachi ([[People#Hitachi (HDPS)|Pasidu]], [[People#Hitachi (HDPS)|Manjula]]): review of the Stanbic routing document (asked by [[People#Hitachi (HDPS)|Anuruddha]], 10 Nov)
 - [/] ⏳ Waiting on @Stanbic: production access to the **Flexipay Drakma Merchant Settlement** API + credentials (partly done)
 - [ ] ⏳ Waiting on @Stanbic: new SIT date after the API stability check
+- [ ] ⏳ Waiting on @Stanbic ([[People#Stanbic|Victor]]): check why the VPN tunnel is down (Sherry, 12 Nov)
+- [ ] ⏳ Waiting on @Stanbic: their production items for go-live (Kithmini chased 13 Nov)
 
 ## 🧠 Key facts & decisions
 - **No load balancer in SIT:** banks reach the gateway directly, so they must change the DNS for qaintqrpe.drakma.com. In **production** an **NLB** sits in front of the gateway.
