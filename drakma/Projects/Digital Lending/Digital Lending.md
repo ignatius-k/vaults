@@ -39,8 +39,9 @@ Build **LMS v2** – a loan management system split into services – and delive
 ## ✅ Tasks
 - [ ] Review the updated **notification service** document and confirm ([[People#Drakma|Sai]], 9 Nov) #lending
 - [ ] Product service changes #lending
+	- ❓ Your inbox note (13 Nov): "product service needs to be added, not yet finished" – what still has to be added, and does CR-003 SIT (ended 13 Nov) need new dates? The status above says Product service is done.
 - [ ] Integrate the product service with the loan processor #lending
-- [ ] Confirm the CR dates Kithmini set in DCP (CR-003, 005, 006, 007 – 12 Nov) #lending 📅 2026-11-13
+- [x] Confirm the CR dates Kithmini set in DCP (CR-003, 005, 006, 007 – 12 Nov) #lending 📅 2026-11-13 ✅ 2026-11-13
 - [ ] Loan Processor (CR-006) – Dev + SIT #lending 📅 2026-11-20
 - [ ] Loan Accounting (CR-007) – Dev + SIT #lending 📅 2026-11-26
 - [ ] Review [[People#Drakma|Ranjan]]'s customer journey service architecture flow (21 Oct) ❓ done? #lending

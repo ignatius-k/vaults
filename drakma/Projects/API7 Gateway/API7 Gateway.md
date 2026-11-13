@@ -16,15 +16,16 @@ Run all partner integrations safely through the API7 gateway: GonzaPay billers (
 
 ## ✅ Tasks
 **2FA upgrade – answer API7's checks (from 11 Nov email)**
-- [/] Do any upstreams rely on `X-Forwarded-Proto/Host/Port` or `Forwarded` from the load balancer? (3.10.9 rewrites/clears them for untrusted sources) #api7
+- [x] Do any upstreams rely on `X-Forwarded-Proto/Host/Port` or `Forwarded` from the load balancer? (3.10.9 rewrites/clears them for untrusted sources) #api7 ✅ 2026-11-13 (analysis sent to [[People#API7|Yuan Bao]] 13 Nov)
 	- 12 Nov: no upstream currently depends on them. Still to write up: how staging is handled (separate gateway group?), memory, and what it means for the Drakma team and future users.
+- [ ] Reply to Yuan Bao: when will we run the 3.10.9 staging tests? (he asked 13 Nov, offered help with set-up/testing) #api7
 - [ ] In staging on 3.10.9 with both custom plugins: run Stanbic merchant inquiry, merchant settlement and transaction inquiry end to end #api7
 - [ ] Check scripts/pipelines calling `/api/custom_plugins` or `/api/plugins/{name}/usage`, and anything using perl/apt/curl/resty inside the gateway container #api7
 - [ ] Add ~400 MiB memory to each data-plane container (or review shared-memory settings) #api7
 - [ ] Get internal approval, then agree the maintenance window and rollback rules with API7 #api7
 
 **Other**
-- [ ] Onboard Africa's Talking API in the gateway (PROD) and test #api7 (not done yet, 13 Nov)
+- [ ] Onboard Africa's Talking API in the gateway (PROD) and test #api7 (not done yet, 13 Nov; inbox 13 Nov: "onboarding the prod API – sms gateway")
 - [x] Onboard URA in the gateway #api7 ✅ 2026-11-13 – follow-up with URA in [[URA Tax Payments]]
 - [ ] Handle **inbound traffic to QRPe** through the gateway: onboard and test the QRPe API with the credentials from [[People#Hitachi (HDPS)|Tishara]], then use the same set-up in production #api7 #qrpe
 - [x] Confirm with [[People#Drakma|Sherry]]/[[People#Drakma|Veeru]] the status of API7 billing and the commercial proposal #api7
