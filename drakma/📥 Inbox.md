@@ -9,3 +9,6 @@ review_note: "Quick capture; emptied by Claude."
 
 - even, product service needs to be added, not yet finished
 - response , sent out to yuan
+
+
+- onboarding the prod API - sms gateway
